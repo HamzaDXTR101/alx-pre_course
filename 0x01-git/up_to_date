@@ -4,3 +4,4 @@ git commit -m "Your message here " this command to help you to tracking your fil
 git branch , this command to know what is your branch are you work
 git checkout , to switvh your branch
 git push , to upload your directory and file in repository in Github account
+git pull
