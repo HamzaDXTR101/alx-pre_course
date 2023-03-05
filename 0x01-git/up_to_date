@@ -1,0 +1,6 @@
+git init
+git add (add your directory or file you want to push in u git account)
+git commit -m "Your message here " this command to help you to tracking your file
+git branch , this command to know what is your branch are you work
+git checkout , to switvh your branch
+git push , to upload your directory and file in repository in Github account
